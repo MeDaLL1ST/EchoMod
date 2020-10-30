@@ -1,3 +1,8 @@
+
+
+Minecraft forge 1.12.2
+jdk 8
+enter /hi
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
